@@ -1,0 +1,18 @@
+.red{
+	background-color: red;
+	min-height: 400px;
+}
+.green{
+	background-color: green;
+	min-height: 400px;
+}
+.blue{
+	background-color: blue;
+	min-height: 400px;
+}
+
+.parallax-window {
+    min-height: 500px;
+    background: transparent;
+}
+
